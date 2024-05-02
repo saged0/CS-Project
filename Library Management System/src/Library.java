@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Library implements Serializable {
+class Library {
     private List<Book> books;
 
     // Constructor
@@ -30,10 +30,10 @@ class Library implements Serializable {
         return result;
     }
 
-    // Method to display all books
-    public void displayBooks() {
-        for (Book book : books) {
-            System.out.println(book);
+        // Method to display all books
+        public void displayBooks () {
+            for (Book book : books) {
+                System.out.println(book);
+            }
         }
     }
-}
