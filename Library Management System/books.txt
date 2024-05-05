@@ -1,0 +1,16 @@
+Java Programming,John Doe,Non-fiction,true
+Python Basics,Jane Smith,Non-fiction,true
+The Great Gatsby,F. Scott Fitzgerald,Fiction,true
+To Kill a Mockingbird,Harper Lee,Fiction,true
+1984,George Orwell,Fiction,true
+Pride and Prejudice,Jane Austen,Fiction,true
+The Catcher in the Rye,J.D. Salinger,Fiction,true
+The Lord of the Rings,J.R.R. Tolkien,Fiction,true
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fiction,true
+The Hobbit,J.R.R. Tolkien,Fiction,true
+The Da Vinci Code,Dan Brown,Fiction,true
+The Girl with the Dragon Tattoo,Stieg Larsson,Fiction,true
+The Hunger Games,Suzanne Collins,Fiction,true
+The Alchemist,Paulo Coelho,Fiction,true
+Gone with the Wind,Margaret Mitchell,Fiction,true
+The Diary of a Young Girl,Anne Frank,Non-fiction,true
